@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "ACEA,QAAQ,CAAR,MAAQ",
+    "sources": [
+        "style.scss",
+        "test.scss"
+    ],
+    "names": [],
+    "file": "style.css"
+}
